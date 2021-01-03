@@ -1,4 +1,4 @@
 # engr-roadmap
 
-[] Install VirtualBox on your laptop
+[ ] Install VirtualBox on your laptop
 - [x] Checkbox
